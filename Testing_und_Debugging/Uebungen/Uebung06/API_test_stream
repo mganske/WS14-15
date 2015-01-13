@@ -1,0 +1,5277 @@
+# api = 'empty', 'full', 'enqueue', 'dequeue'
+# queues = 'Queue6'
+# queue_size = None
+# max_queue_size = 2000
+# stream_length = None
+# max_stream_length = 16000
+# seed = 13681756363766
+Queue6 1983
+# chosen stream_length = 5267
+empty
+full
+empty
+dequeue
+empty
+enqueue -1316511199
+enqueue -1116931405
+dequeue
+enqueue 756953580
+dequeue
+enqueue -1240498086
+full
+dequeue
+dequeue
+empty
+enqueue -1498744437
+empty
+enqueue -1425212726
+full
+enqueue 129898385
+empty
+dequeue
+full
+full
+dequeue
+empty
+empty
+empty
+dequeue
+dequeue
+empty
+enqueue 862964372
+empty
+enqueue 914217900
+full
+dequeue
+empty
+dequeue
+dequeue
+full
+dequeue
+dequeue
+full
+enqueue -1740381639
+full
+empty
+enqueue 1065503440
+dequeue
+enqueue 1367459249
+empty
+dequeue
+enqueue -412603528
+dequeue
+dequeue
+full
+enqueue -1503817323
+dequeue
+full
+full
+dequeue
+enqueue -1542611324
+dequeue
+dequeue
+enqueue -1317295538
+dequeue
+full
+enqueue -576407573
+enqueue 92097260
+enqueue -2062130072
+dequeue
+empty
+dequeue
+enqueue -973135558
+empty
+enqueue -1467622566
+full
+full
+full
+full
+dequeue
+dequeue
+empty
+dequeue
+full
+dequeue
+dequeue
+dequeue
+empty
+full
+dequeue
+empty
+empty
+full
+dequeue
+full
+enqueue 588407818
+empty
+full
+full
+empty
+empty
+empty
+dequeue
+full
+empty
+empty
+full
+dequeue
+empty
+enqueue 2143930085
+dequeue
+full
+full
+dequeue
+enqueue 1345544771
+enqueue -1030513779
+full
+empty
+full
+empty
+dequeue
+full
+enqueue 1251540361
+dequeue
+full
+full
+enqueue -188850827
+empty
+enqueue -814073270
+empty
+enqueue 682633996
+enqueue -1125610861
+full
+empty
+empty
+full
+full
+dequeue
+empty
+enqueue 1278477359
+empty
+dequeue
+dequeue
+enqueue -1770081754
+enqueue -519394547
+full
+dequeue
+enqueue -337787076
+dequeue
+enqueue -2139373619
+empty
+full
+empty
+enqueue -651584385
+empty
+full
+full
+enqueue -987117245
+enqueue 2058071581
+dequeue
+empty
+full
+full
+enqueue 1972195643
+enqueue 884780664
+dequeue
+dequeue
+empty
+empty
+full
+empty
+full
+empty
+enqueue -2091923524
+full
+full
+dequeue
+empty
+enqueue -522279419
+enqueue -2132307391
+empty
+empty
+empty
+full
+dequeue
+dequeue
+enqueue 313482234
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -41624539
+enqueue 58790569
+dequeue
+enqueue -2111275316
+enqueue 603585945
+enqueue 1964097781
+dequeue
+full
+dequeue
+enqueue 973898099
+empty
+dequeue
+dequeue
+dequeue
+enqueue -698851364
+empty
+full
+full
+empty
+enqueue 714582351
+dequeue
+full
+dequeue
+full
+full
+dequeue
+dequeue
+full
+enqueue 2103295282
+enqueue -380157456
+full
+dequeue
+enqueue -407632403
+enqueue 1708088114
+enqueue 2098504775
+dequeue
+enqueue 660444507
+empty
+empty
+full
+enqueue -82031922
+full
+dequeue
+dequeue
+full
+dequeue
+dequeue
+full
+enqueue -1595024929
+empty
+full
+full
+dequeue
+empty
+dequeue
+dequeue
+enqueue 2049302141
+enqueue 47385734
+dequeue
+dequeue
+enqueue -94925380
+full
+full
+enqueue 450278864
+dequeue
+enqueue 547884017
+empty
+dequeue
+enqueue -12097131
+empty
+enqueue -19814697
+enqueue 1127017648
+enqueue 1666960414
+dequeue
+dequeue
+empty
+dequeue
+enqueue 1642071268
+dequeue
+dequeue
+full
+enqueue -1929329756
+enqueue -1725469463
+full
+full
+full
+empty
+enqueue 204375360
+enqueue 765835914
+dequeue
+dequeue
+dequeue
+full
+enqueue -1743550991
+enqueue -1982321449
+empty
+dequeue
+empty
+full
+enqueue -17602680
+enqueue 1981870105
+dequeue
+full
+full
+enqueue -2030699814
+empty
+enqueue 97503408
+empty
+full
+full
+dequeue
+empty
+enqueue 1267198749
+dequeue
+full
+enqueue 1909023712
+empty
+dequeue
+full
+enqueue 1701565813
+full
+dequeue
+dequeue
+full
+dequeue
+enqueue -124535414
+enqueue 1523665417
+empty
+dequeue
+full
+enqueue -1877974924
+empty
+full
+dequeue
+empty
+empty
+full
+enqueue -575324234
+enqueue 340177885
+full
+dequeue
+enqueue 1004424141
+enqueue -1120536944
+full
+enqueue -2023814617
+enqueue 157922570
+enqueue -1806798459
+enqueue 1038647009
+dequeue
+enqueue 1903210102
+dequeue
+empty
+full
+enqueue -1587855115
+empty
+enqueue -1646811148
+enqueue 51333032
+enqueue 474804004
+enqueue 1667737001
+empty
+enqueue 1893548069
+dequeue
+dequeue
+enqueue -1264992434
+full
+enqueue 1407404521
+enqueue -1683152025
+empty
+empty
+empty
+dequeue
+empty
+enqueue 428292914
+enqueue 909193270
+enqueue 919149245
+full
+dequeue
+full
+full
+dequeue
+enqueue 1718183297
+full
+enqueue 1190220718
+full
+full
+enqueue -782104566
+empty
+full
+dequeue
+dequeue
+full
+full
+full
+enqueue 1320962525
+enqueue -1641537905
+dequeue
+full
+empty
+empty
+full
+empty
+dequeue
+enqueue -186347091
+enqueue -1309364796
+enqueue 956266264
+empty
+empty
+empty
+dequeue
+enqueue -1953673660
+empty
+full
+enqueue -197882962
+dequeue
+dequeue
+dequeue
+full
+empty
+empty
+empty
+full
+dequeue
+empty
+empty
+enqueue -1836606073
+enqueue -1138628848
+enqueue 855677362
+dequeue
+enqueue 1447303306
+enqueue 268433414
+empty
+enqueue -1988409586
+enqueue -700794048
+enqueue -118543760
+dequeue
+enqueue -1505785317
+empty
+empty
+enqueue 939238607
+full
+enqueue -377133345
+dequeue
+empty
+dequeue
+empty
+empty
+empty
+full
+dequeue
+enqueue 1867920533
+dequeue
+full
+dequeue
+enqueue -1854162920
+enqueue -870148230
+enqueue -87575538
+dequeue
+empty
+full
+empty
+dequeue
+dequeue
+enqueue 189467198
+empty
+dequeue
+empty
+enqueue 1913740807
+enqueue 864779239
+dequeue
+empty
+full
+empty
+full
+empty
+dequeue
+enqueue 1860883655
+full
+dequeue
+dequeue
+full
+dequeue
+enqueue 747523440
+dequeue
+full
+dequeue
+dequeue
+empty
+enqueue 1062869999
+empty
+full
+full
+enqueue 1493725863
+enqueue 58448269
+empty
+enqueue 971131857
+full
+enqueue -965408098
+dequeue
+empty
+full
+full
+full
+full
+dequeue
+dequeue
+dequeue
+enqueue 1237104604
+full
+dequeue
+empty
+empty
+dequeue
+empty
+full
+full
+empty
+empty
+full
+empty
+full
+dequeue
+empty
+empty
+full
+dequeue
+empty
+full
+empty
+enqueue 1368825660
+full
+enqueue -1221015884
+dequeue
+dequeue
+empty
+dequeue
+dequeue
+full
+dequeue
+enqueue -177595311
+empty
+empty
+full
+enqueue 879437791
+enqueue -767460409
+enqueue 472510133
+dequeue
+enqueue -818475581
+full
+dequeue
+dequeue
+dequeue
+empty
+full
+empty
+full
+dequeue
+dequeue
+enqueue -1952012693
+full
+dequeue
+full
+full
+full
+dequeue
+dequeue
+dequeue
+full
+empty
+full
+full
+full
+enqueue 617619370
+empty
+full
+empty
+empty
+full
+enqueue -1806683349
+enqueue 1067643205
+full
+empty
+full
+enqueue 1940561382
+enqueue 325674259
+dequeue
+full
+dequeue
+full
+dequeue
+full
+empty
+dequeue
+full
+empty
+empty
+enqueue -1556633789
+full
+enqueue -1378598353
+enqueue -1446030964
+dequeue
+dequeue
+empty
+empty
+dequeue
+full
+empty
+enqueue 1445563032
+empty
+enqueue -1526549108
+empty
+dequeue
+enqueue -518049320
+dequeue
+empty
+full
+empty
+empty
+full
+full
+dequeue
+empty
+dequeue
+full
+dequeue
+dequeue
+empty
+dequeue
+empty
+full
+full
+dequeue
+full
+full
+dequeue
+dequeue
+empty
+dequeue
+full
+enqueue 1287223113
+full
+dequeue
+enqueue -1834264392
+full
+enqueue 1505357300
+full
+full
+empty
+enqueue 1736919961
+full
+dequeue
+enqueue 1010248546
+enqueue -358501723
+empty
+dequeue
+full
+empty
+enqueue 270712721
+enqueue -130727323
+dequeue
+dequeue
+full
+empty
+empty
+enqueue -836772901
+enqueue -345519396
+full
+enqueue 1212602649
+dequeue
+dequeue
+full
+enqueue 1410467449
+dequeue
+dequeue
+enqueue 1110056254
+dequeue
+enqueue -538936615
+empty
+empty
+enqueue -1046985145
+enqueue 930852275
+enqueue -1245616554
+empty
+dequeue
+empty
+full
+full
+full
+dequeue
+enqueue -1910254558
+empty
+empty
+empty
+dequeue
+dequeue
+enqueue -1623175626
+enqueue 1981886314
+dequeue
+dequeue
+enqueue 1976423489
+enqueue -2021063310
+enqueue 1337805865
+enqueue 2134581055
+empty
+full
+full
+empty
+full
+enqueue 972206687
+full
+dequeue
+enqueue -748707979
+empty
+full
+full
+dequeue
+dequeue
+dequeue
+enqueue -1687905037
+dequeue
+empty
+empty
+full
+empty
+enqueue -1318144895
+enqueue 1405799067
+full
+dequeue
+empty
+enqueue -1951070680
+enqueue 2029087409
+enqueue -36253973
+dequeue
+full
+empty
+full
+dequeue
+full
+enqueue 1809414484
+enqueue 491148673
+full
+empty
+enqueue 697520596
+empty
+empty
+dequeue
+full
+empty
+empty
+dequeue
+dequeue
+enqueue -1597629728
+dequeue
+dequeue
+full
+enqueue 250708773
+full
+enqueue -1251649201
+empty
+empty
+empty
+empty
+enqueue 1241365069
+full
+empty
+empty
+empty
+enqueue 552228678
+empty
+full
+empty
+dequeue
+dequeue
+enqueue 1789907640
+enqueue 1311105365
+enqueue -696675921
+full
+empty
+enqueue -1972886000
+dequeue
+enqueue 1696102355
+enqueue -798006861
+empty
+dequeue
+enqueue 308164812
+full
+empty
+full
+empty
+empty
+empty
+empty
+dequeue
+empty
+full
+empty
+full
+full
+dequeue
+full
+full
+full
+dequeue
+dequeue
+enqueue 1428454709
+full
+dequeue
+dequeue
+enqueue 62410213
+enqueue -504199889
+empty
+dequeue
+full
+dequeue
+enqueue 618593381
+empty
+enqueue 1735932881
+enqueue -836349438
+enqueue 1213444255
+dequeue
+empty
+enqueue 862338547
+dequeue
+full
+enqueue -487155824
+dequeue
+enqueue 795031225
+dequeue
+dequeue
+empty
+full
+enqueue -463460130
+full
+full
+enqueue -2110107883
+dequeue
+empty
+full
+full
+enqueue 1797703595
+enqueue -1680272790
+empty
+dequeue
+dequeue
+enqueue -1795759263
+enqueue -2071256061
+full
+dequeue
+enqueue -251293573
+enqueue 1524039040
+enqueue -1595042467
+empty
+full
+full
+empty
+enqueue -83750530
+empty
+empty
+full
+enqueue 2002742344
+dequeue
+empty
+empty
+full
+full
+empty
+enqueue -1815777387
+empty
+enqueue 1550140970
+dequeue
+dequeue
+full
+empty
+enqueue -278502873
+full
+empty
+dequeue
+dequeue
+empty
+empty
+dequeue
+dequeue
+dequeue
+empty
+dequeue
+empty
+dequeue
+empty
+full
+full
+full
+dequeue
+full
+full
+dequeue
+dequeue
+empty
+empty
+enqueue 812393279
+empty
+enqueue 1962458327
+enqueue -1631369859
+enqueue -821218236
+dequeue
+empty
+empty
+enqueue 819325714
+empty
+dequeue
+empty
+dequeue
+dequeue
+full
+full
+enqueue -502906718
+dequeue
+enqueue -1406838613
+enqueue 781239348
+empty
+empty
+empty
+full
+dequeue
+dequeue
+full
+dequeue
+full
+enqueue -2085616223
+empty
+empty
+full
+enqueue 619323984
+full
+dequeue
+dequeue
+enqueue 1759430918
+enqueue -2128186328
+empty
+empty
+enqueue 916681272
+empty
+dequeue
+full
+empty
+dequeue
+enqueue -584685175
+full
+enqueue -1493129391
+empty
+empty
+empty
+full
+enqueue 1702562217
+enqueue 213757517
+enqueue 460178348
+empty
+dequeue
+full
+dequeue
+enqueue -1325544053
+full
+dequeue
+full
+full
+enqueue 1649646256
+full
+empty
+dequeue
+enqueue 903771230
+full
+full
+enqueue -1960209
+full
+dequeue
+full
+enqueue -967093525
+empty
+full
+full
+empty
+empty
+empty
+full
+full
+dequeue
+dequeue
+full
+enqueue 1313608900
+enqueue -1413786616
+full
+full
+dequeue
+full
+empty
+dequeue
+dequeue
+enqueue -1108868698
+enqueue 1057565903
+empty
+dequeue
+full
+enqueue 1851516021
+empty
+enqueue -774824670
+enqueue -1621466786
+enqueue -100318779
+enqueue 101024800
+empty
+empty
+enqueue 938020429
+enqueue 2129327831
+empty
+full
+empty
+enqueue -287658666
+full
+dequeue
+empty
+empty
+enqueue -644749556
+full
+full
+full
+empty
+dequeue
+dequeue
+empty
+empty
+enqueue 1503757634
+dequeue
+dequeue
+enqueue 1415872734
+empty
+enqueue 765159003
+empty
+enqueue -1013964496
+enqueue 1986488639
+dequeue
+dequeue
+full
+full
+dequeue
+empty
+empty
+empty
+full
+full
+enqueue -569071777
+enqueue -1026196290
+empty
+enqueue -1963439454
+full
+full
+empty
+empty
+dequeue
+dequeue
+enqueue 474897414
+full
+enqueue 460861317
+dequeue
+dequeue
+enqueue -856295606
+full
+empty
+dequeue
+full
+empty
+dequeue
+full
+full
+enqueue 1449858238
+dequeue
+enqueue -1975430838
+empty
+empty
+dequeue
+dequeue
+empty
+enqueue 1832867504
+empty
+enqueue 788942447
+dequeue
+empty
+full
+enqueue -1682788732
+full
+enqueue -1701315019
+enqueue -2086513921
+empty
+full
+enqueue 105343123
+dequeue
+enqueue -1397696874
+dequeue
+empty
+full
+empty
+full
+dequeue
+full
+empty
+enqueue -782850305
+empty
+empty
+enqueue 1551789234
+dequeue
+dequeue
+dequeue
+full
+empty
+dequeue
+empty
+empty
+empty
+empty
+full
+empty
+empty
+full
+enqueue 1394795902
+full
+full
+empty
+enqueue -1096224567
+dequeue
+empty
+dequeue
+empty
+dequeue
+enqueue 2085465401
+enqueue -457895971
+enqueue -1064040132
+dequeue
+full
+enqueue 883089820
+empty
+empty
+empty
+full
+empty
+dequeue
+enqueue 335656305
+enqueue 1804140686
+enqueue -2035670266
+enqueue 28210377
+full
+dequeue
+full
+empty
+dequeue
+dequeue
+full
+full
+dequeue
+enqueue 1180957985
+enqueue 1283659160
+full
+enqueue -84478729
+empty
+empty
+enqueue 632150949
+empty
+enqueue 497116230
+dequeue
+full
+empty
+full
+empty
+empty
+enqueue 918516906
+full
+full
+dequeue
+empty
+enqueue 114961862
+enqueue -11342716
+enqueue 2140235109
+full
+full
+full
+full
+enqueue -524277614
+dequeue
+enqueue 1774853341
+full
+full
+empty
+dequeue
+dequeue
+enqueue 2137949656
+full
+full
+empty
+enqueue -963485460
+dequeue
+dequeue
+dequeue
+empty
+dequeue
+empty
+empty
+empty
+empty
+dequeue
+dequeue
+empty
+dequeue
+full
+full
+full
+enqueue 786959735
+enqueue -1318576823
+enqueue 162269589
+enqueue 1356501453
+empty
+dequeue
+dequeue
+dequeue
+enqueue -515577981
+enqueue -682308623
+full
+full
+enqueue -1345917764
+dequeue
+enqueue -63853158
+empty
+empty
+empty
+enqueue 832634980
+dequeue
+full
+dequeue
+full
+full
+full
+enqueue -912447216
+full
+enqueue -1825954091
+full
+enqueue -574372809
+full
+full
+full
+dequeue
+dequeue
+full
+full
+dequeue
+full
+enqueue 62457943
+dequeue
+full
+full
+empty
+full
+empty
+enqueue -258812876
+enqueue 1125504630
+dequeue
+dequeue
+empty
+enqueue -1205974379
+dequeue
+full
+full
+enqueue -1804430853
+dequeue
+enqueue 542018714
+empty
+dequeue
+dequeue
+empty
+enqueue -387033325
+enqueue -67590361
+empty
+dequeue
+full
+full
+dequeue
+empty
+dequeue
+empty
+dequeue
+empty
+full
+dequeue
+dequeue
+dequeue
+dequeue
+empty
+empty
+full
+full
+enqueue 1861291783
+empty
+empty
+empty
+empty
+empty
+empty
+enqueue 1192878140
+enqueue -959284096
+empty
+full
+dequeue
+dequeue
+enqueue -2065932534
+full
+empty
+enqueue 365803568
+enqueue 319181746
+empty
+empty
+enqueue 2123904532
+full
+enqueue 1315759391
+enqueue 2028104365
+full
+dequeue
+dequeue
+dequeue
+full
+full
+empty
+full
+enqueue -1850746006
+empty
+enqueue -1538964290
+dequeue
+dequeue
+full
+enqueue -396886904
+enqueue 1550739535
+dequeue
+full
+enqueue 943521442
+full
+dequeue
+dequeue
+full
+enqueue 2119381282
+empty
+empty
+empty
+full
+full
+dequeue
+enqueue -1810791379
+enqueue -1417669297
+empty
+full
+empty
+dequeue
+enqueue -1708481072
+dequeue
+full
+empty
+dequeue
+empty
+full
+full
+enqueue 104557378
+dequeue
+empty
+empty
+enqueue 1657805601
+enqueue -238135037
+full
+empty
+full
+full
+empty
+enqueue 2003167156
+empty
+full
+enqueue -126432381
+dequeue
+enqueue 1202416221
+empty
+enqueue -913623717
+full
+dequeue
+full
+empty
+dequeue
+enqueue -1623800536
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -1447189923
+dequeue
+full
+full
+enqueue -1708227835
+enqueue -2042887492
+full
+enqueue -115730264
+full
+dequeue
+dequeue
+empty
+empty
+dequeue
+full
+dequeue
+enqueue 1327219565
+dequeue
+full
+empty
+full
+full
+empty
+enqueue 1277738118
+enqueue -49658839
+dequeue
+full
+dequeue
+enqueue 300302984
+enqueue 866271831
+full
+empty
+empty
+full
+full
+enqueue -1223292143
+dequeue
+enqueue -573613634
+enqueue 1624943917
+full
+enqueue -932738169
+full
+enqueue -1603101815
+empty
+empty
+dequeue
+empty
+dequeue
+empty
+empty
+enqueue -341661137
+dequeue
+dequeue
+full
+empty
+empty
+enqueue -2114850108
+dequeue
+dequeue
+dequeue
+full
+enqueue -1981478841
+enqueue 1930745804
+empty
+enqueue 503070400
+empty
+dequeue
+enqueue -1889155604
+full
+dequeue
+full
+full
+empty
+empty
+empty
+enqueue -359590592
+enqueue -638510339
+enqueue -1459041815
+full
+dequeue
+full
+full
+empty
+full
+enqueue -1091995636
+enqueue 1582783894
+full
+full
+full
+full
+empty
+full
+full
+empty
+enqueue 1268805299
+full
+full
+full
+empty
+empty
+enqueue -458645571
+enqueue -1932228362
+dequeue
+enqueue -1110083718
+enqueue 1337607066
+dequeue
+empty
+dequeue
+enqueue -150059688
+full
+dequeue
+enqueue -1662194025
+full
+full
+enqueue 427809191
+enqueue -116665972
+enqueue 585619472
+dequeue
+enqueue -1228953670
+full
+dequeue
+full
+full
+dequeue
+empty
+empty
+enqueue 559837518
+full
+full
+full
+empty
+enqueue 1232942946
+enqueue -1743759204
+full
+full
+empty
+enqueue 372003682
+empty
+empty
+dequeue
+full
+dequeue
+full
+empty
+dequeue
+dequeue
+empty
+empty
+dequeue
+dequeue
+dequeue
+full
+enqueue -1734432982
+dequeue
+full
+enqueue 216766859
+enqueue -1129473867
+dequeue
+enqueue 1156349917
+full
+full
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 107391729
+enqueue 1789053082
+enqueue 667434226
+empty
+empty
+enqueue 2099712797
+empty
+empty
+full
+full
+enqueue 1245627366
+full
+full
+enqueue -479809089
+enqueue -1114654496
+dequeue
+enqueue -768723835
+empty
+full
+full
+dequeue
+enqueue -1760312209
+dequeue
+enqueue 2022169351
+dequeue
+enqueue 1453743670
+enqueue 1835822348
+enqueue 106543936
+full
+full
+dequeue
+enqueue 337485432
+dequeue
+enqueue -436698474
+dequeue
+full
+empty
+full
+full
+empty
+empty
+enqueue -1779863509
+dequeue
+empty
+dequeue
+enqueue 145368312
+dequeue
+full
+enqueue -1673732845
+empty
+full
+full
+dequeue
+full
+full
+full
+dequeue
+empty
+enqueue -561112354
+dequeue
+dequeue
+empty
+empty
+full
+empty
+full
+empty
+dequeue
+empty
+dequeue
+empty
+dequeue
+full
+dequeue
+dequeue
+dequeue
+dequeue
+empty
+empty
+full
+full
+full
+dequeue
+full
+empty
+full
+enqueue -1835586254
+full
+full
+enqueue 651683508
+dequeue
+empty
+full
+empty
+enqueue 1207703014
+enqueue -553367146
+full
+full
+full
+empty
+dequeue
+full
+full
+empty
+dequeue
+enqueue -315324062
+enqueue 1908267571
+enqueue 499030471
+empty
+dequeue
+empty
+dequeue
+dequeue
+full
+dequeue
+full
+enqueue 972435554
+dequeue
+dequeue
+empty
+dequeue
+empty
+dequeue
+empty
+dequeue
+full
+enqueue 2113009671
+enqueue 1479037313
+empty
+empty
+empty
+enqueue 53285946
+full
+empty
+empty
+empty
+enqueue -1856048217
+enqueue -161863627
+full
+empty
+enqueue 124437077
+enqueue 1901556926
+full
+enqueue 380876575
+empty
+dequeue
+full
+empty
+full
+empty
+dequeue
+dequeue
+empty
+dequeue
+enqueue 941368517
+enqueue -601694130
+dequeue
+enqueue -1919756987
+full
+empty
+dequeue
+empty
+empty
+dequeue
+full
+empty
+full
+empty
+full
+full
+dequeue
+empty
+empty
+enqueue -934474548
+dequeue
+enqueue 1190329824
+empty
+enqueue 1983898833
+full
+empty
+full
+dequeue
+dequeue
+dequeue
+enqueue -367046892
+full
+empty
+enqueue 846101441
+full
+full
+empty
+empty
+empty
+enqueue -749099161
+empty
+full
+full
+enqueue 1544154706
+enqueue -693736133
+full
+dequeue
+empty
+dequeue
+empty
+dequeue
+dequeue
+empty
+dequeue
+enqueue 1810307499
+enqueue -88567131
+empty
+empty
+full
+empty
+full
+enqueue -34036903
+full
+empty
+enqueue -322647915
+empty
+dequeue
+empty
+enqueue -917942824
+full
+enqueue 404313800
+empty
+enqueue -2077280929
+full
+dequeue
+empty
+dequeue
+empty
+dequeue
+enqueue -1653470793
+empty
+empty
+enqueue 1834882171
+dequeue
+full
+enqueue -1485187693
+empty
+empty
+full
+full
+dequeue
+empty
+full
+dequeue
+full
+enqueue 1765812373
+enqueue 1619934246
+enqueue -634153096
+full
+enqueue -1993660035
+enqueue 726793253
+enqueue -474265084
+full
+empty
+empty
+dequeue
+dequeue
+dequeue
+empty
+empty
+full
+enqueue -1241630897
+full
+empty
+enqueue -1368467555
+enqueue -909179305
+full
+dequeue
+enqueue 724767391
+enqueue -404750300
+enqueue 1455071198
+enqueue 1902869380
+enqueue -57333564
+enqueue -1208132239
+enqueue 130077687
+empty
+enqueue -280265331
+full
+empty
+enqueue -1549794808
+enqueue 1641394413
+empty
+dequeue
+dequeue
+empty
+full
+dequeue
+full
+full
+enqueue -710377740
+dequeue
+full
+empty
+empty
+enqueue 2091947460
+dequeue
+enqueue 1939046095
+dequeue
+dequeue
+full
+full
+empty
+full
+empty
+enqueue 1178645230
+empty
+empty
+full
+dequeue
+enqueue -112620396
+dequeue
+empty
+full
+enqueue 1364689479
+dequeue
+dequeue
+dequeue
+empty
+dequeue
+empty
+enqueue 1255862153
+dequeue
+empty
+full
+empty
+empty
+full
+full
+enqueue -1139637029
+enqueue -1588623165
+full
+empty
+dequeue
+full
+enqueue 255273504
+empty
+empty
+empty
+dequeue
+dequeue
+empty
+full
+dequeue
+enqueue 1601095497
+dequeue
+empty
+dequeue
+empty
+enqueue 670073740
+dequeue
+full
+enqueue -1105379071
+empty
+full
+enqueue -1912538138
+dequeue
+dequeue
+enqueue 1376987811
+enqueue -1475554498
+empty
+enqueue 808452891
+enqueue -861612507
+full
+enqueue -1434150643
+enqueue -538781178
+empty
+empty
+empty
+empty
+dequeue
+full
+dequeue
+full
+enqueue 1415719717
+enqueue 1359481318
+dequeue
+dequeue
+enqueue -155150705
+full
+full
+empty
+enqueue -248313981
+full
+enqueue 317569140
+empty
+enqueue 905483134
+dequeue
+full
+full
+empty
+empty
+enqueue 1893942282
+empty
+full
+empty
+full
+full
+full
+enqueue -647633684
+enqueue 941206325
+full
+full
+dequeue
+dequeue
+empty
+dequeue
+enqueue 1711925373
+dequeue
+empty
+empty
+enqueue 2016864622
+empty
+full
+empty
+enqueue 1058415861
+enqueue 294332863
+full
+full
+dequeue
+empty
+empty
+empty
+enqueue -48103200
+full
+empty
+empty
+full
+full
+dequeue
+full
+full
+full
+enqueue 827358937
+empty
+full
+empty
+full
+dequeue
+empty
+empty
+empty
+empty
+enqueue -1730079148
+dequeue
+dequeue
+full
+full
+dequeue
+full
+full
+enqueue 1417408537
+full
+dequeue
+enqueue -1135200133
+empty
+dequeue
+empty
+enqueue -485033029
+dequeue
+full
+enqueue 811471043
+enqueue 67511583
+dequeue
+enqueue 456953063
+full
+empty
+dequeue
+enqueue 792754214
+empty
+full
+empty
+dequeue
+empty
+full
+dequeue
+empty
+enqueue 1450598914
+dequeue
+full
+full
+enqueue 1942996848
+empty
+full
+enqueue 540083845
+enqueue 1727984630
+dequeue
+dequeue
+empty
+full
+dequeue
+empty
+full
+enqueue -756330518
+empty
+enqueue -1854613586
+empty
+full
+enqueue 1742484290
+empty
+enqueue -1733991357
+empty
+enqueue 1545812642
+empty
+enqueue 918141089
+enqueue -2129187115
+enqueue 1586264875
+enqueue -1680054794
+enqueue -1668879014
+empty
+empty
+dequeue
+full
+empty
+full
+enqueue 330959888
+full
+full
+full
+enqueue 193524647
+empty
+full
+empty
+empty
+full
+enqueue -290271659
+dequeue
+full
+empty
+dequeue
+dequeue
+full
+dequeue
+full
+dequeue
+dequeue
+enqueue -1721110685
+enqueue 907668633
+enqueue 853234718
+enqueue -656239282
+empty
+enqueue 442366669
+dequeue
+dequeue
+enqueue 1849015983
+empty
+enqueue 1429158020
+dequeue
+empty
+enqueue -822781572
+full
+dequeue
+empty
+full
+full
+dequeue
+full
+full
+dequeue
+empty
+dequeue
+full
+dequeue
+dequeue
+empty
+dequeue
+empty
+enqueue -1717072444
+full
+full
+full
+enqueue -2107024263
+dequeue
+enqueue -1111237336
+empty
+enqueue -560355235
+dequeue
+full
+dequeue
+full
+dequeue
+dequeue
+full
+full
+enqueue -2110751328
+empty
+enqueue 1489874395
+enqueue -1729697070
+full
+dequeue
+empty
+enqueue 1576394240
+empty
+full
+empty
+empty
+empty
+enqueue -1229342302
+dequeue
+enqueue -168155429
+enqueue 1897273301
+empty
+empty
+full
+empty
+full
+empty
+dequeue
+enqueue 2030032595
+enqueue 154001861
+full
+enqueue -1741619092
+full
+full
+enqueue -1728522057
+enqueue 1072785926
+dequeue
+empty
+empty
+full
+full
+full
+enqueue 35692517
+enqueue -561501677
+full
+enqueue -1840328220
+full
+dequeue
+enqueue 616550465
+enqueue 2026793882
+enqueue -1898289982
+full
+dequeue
+empty
+enqueue -1003667830
+empty
+empty
+full
+dequeue
+full
+enqueue 239969424
+dequeue
+enqueue -540094208
+dequeue
+enqueue -1118220049
+enqueue -1540658255
+empty
+empty
+enqueue -1930315423
+dequeue
+full
+empty
+full
+empty
+empty
+empty
+enqueue 501554524
+enqueue -7730083
+dequeue
+dequeue
+enqueue 2058333429
+dequeue
+empty
+enqueue -292109591
+enqueue 266206670
+empty
+full
+full
+dequeue
+full
+dequeue
+empty
+full
+dequeue
+dequeue
+full
+full
+empty
+empty
+dequeue
+dequeue
+enqueue 1545376067
+full
+dequeue
+dequeue
+full
+empty
+enqueue -120542047
+full
+empty
+full
+dequeue
+enqueue -1136841254
+full
+empty
+full
+empty
+empty
+dequeue
+enqueue 2010971694
+dequeue
+dequeue
+full
+enqueue -1939639892
+dequeue
+enqueue 1419839643
+full
+dequeue
+enqueue -607416066
+empty
+dequeue
+empty
+dequeue
+full
+enqueue 1956394540
+full
+dequeue
+dequeue
+enqueue -1092467359
+dequeue
+enqueue 1137052806
+full
+dequeue
+dequeue
+full
+dequeue
+full
+full
+empty
+enqueue -859893852
+full
+dequeue
+dequeue
+full
+dequeue
+full
+enqueue 474309479
+dequeue
+empty
+full
+dequeue
+empty
+empty
+empty
+dequeue
+empty
+dequeue
+dequeue
+enqueue 1398196829
+enqueue 1637440870
+dequeue
+full
+dequeue
+dequeue
+enqueue 997077775
+dequeue
+dequeue
+full
+empty
+enqueue -1752439177
+enqueue -1774455357
+empty
+full
+full
+full
+empty
+full
+enqueue -810291196
+enqueue -1570335044
+dequeue
+empty
+enqueue 31006340
+empty
+dequeue
+full
+enqueue 2071692312
+empty
+enqueue -1419472034
+dequeue
+dequeue
+empty
+full
+dequeue
+empty
+dequeue
+dequeue
+enqueue -675048485
+full
+full
+enqueue 1390650412
+enqueue -582231125
+enqueue -1105225403
+enqueue -785037787
+empty
+enqueue -2089088525
+dequeue
+full
+empty
+full
+full
+enqueue -1483513786
+empty
+empty
+full
+empty
+enqueue 1988318977
+enqueue 130841436
+empty
+full
+full
+enqueue 120760153
+empty
+enqueue 222807609
+enqueue 646609164
+full
+dequeue
+dequeue
+full
+dequeue
+empty
+full
+dequeue
+empty
+empty
+full
+full
+dequeue
+dequeue
+full
+dequeue
+empty
+empty
+enqueue -1129484603
+enqueue -532710275
+enqueue -1327742620
+empty
+empty
+full
+enqueue -615179274
+enqueue -722907223
+full
+dequeue
+empty
+full
+empty
+full
+empty
+empty
+dequeue
+dequeue
+enqueue -254755530
+dequeue
+enqueue -945064262
+empty
+empty
+dequeue
+dequeue
+dequeue
+full
+enqueue 350920642
+full
+empty
+enqueue -788435750
+empty
+empty
+enqueue -1583628988
+empty
+empty
+empty
+empty
+empty
+enqueue -811950072
+enqueue 48026665
+empty
+full
+enqueue 921387356
+enqueue -1420399611
+full
+dequeue
+dequeue
+dequeue
+enqueue -1811214134
+dequeue
+enqueue 744939467
+full
+dequeue
+full
+dequeue
+dequeue
+enqueue 1898516139
+enqueue -1118691795
+full
+dequeue
+empty
+enqueue -1887230385
+dequeue
+dequeue
+empty
+enqueue 663842823
+full
+dequeue
+empty
+enqueue -1597641201
+dequeue
+empty
+enqueue -716697508
+full
+full
+enqueue -916409689
+full
+enqueue 1228178302
+dequeue
+enqueue -2101212981
+enqueue 1644298350
+dequeue
+enqueue 98139256
+dequeue
+dequeue
+full
+dequeue
+dequeue
+full
+full
+empty
+enqueue -291731689
+empty
+empty
+enqueue 1174125433
+dequeue
+full
+full
+empty
+empty
+full
+full
+dequeue
+empty
+full
+full
+full
+empty
+full
+dequeue
+enqueue -642400014
+empty
+enqueue -342397747
+dequeue
+dequeue
+empty
+empty
+empty
+enqueue -2000818729
+full
+dequeue
+enqueue 898253631
+enqueue 835451561
+enqueue 589000778
+full
+enqueue -1604410541
+dequeue
+enqueue -862243508
+full
+full
+dequeue
+enqueue -573438309
+enqueue -1886699927
+empty
+enqueue 1432041522
+empty
+full
+enqueue 524319868
+dequeue
+empty
+full
+dequeue
+full
+empty
+dequeue
+empty
+enqueue -363433819
+dequeue
+enqueue 1398177545
+enqueue 576900729
+empty
+full
+dequeue
+dequeue
+enqueue -1775333329
+full
+empty
+dequeue
+enqueue -1668738346
+full
+full
+dequeue
+empty
+full
+dequeue
+empty
+empty
+full
+dequeue
+full
+full
+enqueue 1701763738
+dequeue
+dequeue
+full
+empty
+enqueue 974779300
+dequeue
+full
+full
+dequeue
+enqueue -595532722
+dequeue
+enqueue -2050991822
+dequeue
+empty
+enqueue 1198397370
+full
+enqueue -2128407002
+enqueue 326335916
+dequeue
+empty
+dequeue
+full
+empty
+full
+enqueue -1045697689
+full
+enqueue 1215468193
+empty
+empty
+empty
+full
+dequeue
+full
+empty
+dequeue
+enqueue 1137242134
+full
+empty
+enqueue 883422774
+full
+enqueue 157039981
+enqueue -1353590470
+empty
+enqueue -815699772
+dequeue
+dequeue
+enqueue 1792774961
+enqueue 325475515
+dequeue
+empty
+empty
+empty
+empty
+full
+empty
+dequeue
+dequeue
+dequeue
+full
+full
+empty
+empty
+empty
+empty
+empty
+enqueue -1693482917
+empty
+full
+full
+enqueue 1808617473
+dequeue
+full
+enqueue 1917908269
+dequeue
+full
+empty
+empty
+dequeue
+empty
+dequeue
+dequeue
+empty
+enqueue 687275592
+dequeue
+enqueue 1290159779
+enqueue -2096518657
+empty
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -183560547
+empty
+enqueue -2111688771
+dequeue
+enqueue -2134925894
+enqueue 670978444
+empty
+enqueue -125488564
+dequeue
+dequeue
+dequeue
+enqueue -968115233
+empty
+empty
+empty
+empty
+enqueue -1791198953
+full
+empty
+dequeue
+enqueue -1982103332
+full
+dequeue
+empty
+full
+enqueue -276135172
+full
+enqueue -1648018717
+dequeue
+enqueue -710299070
+full
+full
+empty
+empty
+empty
+empty
+empty
+dequeue
+enqueue -141062799
+empty
+enqueue 1673654547
+full
+enqueue 494838189
+enqueue -638998931
+dequeue
+enqueue -691328186
+dequeue
+empty
+dequeue
+empty
+empty
+enqueue -628260602
+dequeue
+empty
+empty
+enqueue -1894514089
+dequeue
+full
+dequeue
+empty
+full
+full
+full
+empty
+empty
+dequeue
+empty
+dequeue
+dequeue
+full
+enqueue 644379002
+enqueue 445567297
+empty
+empty
+empty
+empty
+empty
+full
+empty
+enqueue 1080701959
+enqueue 301272083
+empty
+dequeue
+dequeue
+dequeue
+full
+full
+empty
+empty
+full
+full
+empty
+full
+full
+dequeue
+enqueue 1198967488
+dequeue
+empty
+enqueue -1582636632
+full
+full
+dequeue
+empty
+empty
+full
+dequeue
+full
+enqueue -605933056
+full
+dequeue
+enqueue 709315504
+enqueue 1543479189
+enqueue 1990746155
+empty
+full
+dequeue
+enqueue 1147490735
+dequeue
+enqueue -1322661898
+empty
+enqueue 1206639148
+full
+empty
+enqueue 1199398399
+empty
+dequeue
+enqueue -1211733673
+full
+full
+enqueue -1253210549
+enqueue 1705257374
+empty
+dequeue
+enqueue 1833015722
+full
+empty
+empty
+full
+dequeue
+full
+enqueue -259394882
+enqueue -356355213
+dequeue
+empty
+full
+empty
+dequeue
+empty
+empty
+enqueue 237943620
+empty
+empty
+enqueue -118547877
+full
+full
+empty
+enqueue -1652488563
+enqueue 884254499
+enqueue 1067129815
+dequeue
+enqueue 103609774
+empty
+empty
+empty
+full
+enqueue -779321940
+enqueue 1257364864
+enqueue -132312480
+enqueue 226810170
+empty
+empty
+dequeue
+empty
+dequeue
+empty
+dequeue
+empty
+enqueue -276034383
+enqueue -850175106
+enqueue 1413776601
+empty
+dequeue
+enqueue 144280303
+enqueue 1072802317
+dequeue
+enqueue 1950889163
+enqueue 1921831568
+empty
+enqueue 782084297
+dequeue
+empty
+full
+enqueue -1996846948
+empty
+enqueue -2011228962
+enqueue 2064094438
+empty
+enqueue -1082543416
+dequeue
+dequeue
+enqueue 398690440
+full
+full
+dequeue
+enqueue 1519864990
+full
+dequeue
+full
+enqueue 216108380
+full
+full
+full
+full
+dequeue
+full
+enqueue -1375504574
+dequeue
+dequeue
+empty
+full
+dequeue
+full
+full
+dequeue
+full
+enqueue 72688114
+enqueue -1934467277
+enqueue 1520162849
+dequeue
+dequeue
+full
+empty
+empty
+empty
+dequeue
+enqueue -908984895
+enqueue 758716479
+full
+dequeue
+dequeue
+empty
+empty
+full
+enqueue 42925362
+empty
+full
+empty
+full
+full
+dequeue
+enqueue 2086286011
+enqueue -1054729330
+full
+full
+full
+empty
+empty
+full
+full
+dequeue
+dequeue
+full
+dequeue
+empty
+empty
+empty
+enqueue -2070117486
+dequeue
+empty
+empty
+empty
+empty
+dequeue
+empty
+full
+full
+dequeue
+full
+full
+enqueue -2097355202
+dequeue
+enqueue 569463495
+empty
+full
+dequeue
+dequeue
+full
+enqueue -1003877669
+enqueue 971579354
+dequeue
+empty
+enqueue 113225992
+full
+enqueue 726894475
+full
+dequeue
+enqueue -2122063191
+enqueue -1588761718
+enqueue -879260167
+empty
+enqueue 650870510
+dequeue
+dequeue
+enqueue 1559283255
+enqueue -1016873732
+full
+dequeue
+dequeue
+empty
+empty
+empty
+full
+dequeue
+enqueue -912605391
+enqueue -85304134
+enqueue -326297808
+full
+full
+empty
+dequeue
+empty
+enqueue -244836430
+dequeue
+empty
+enqueue 984170596
+dequeue
+dequeue
+empty
+dequeue
+full
+enqueue -450010950
+enqueue -225366916
+enqueue 1719436798
+enqueue 105116441
+enqueue 1638459024
+enqueue 872930490
+enqueue 1018817407
+full
+full
+empty
+enqueue -290856815
+empty
+dequeue
+dequeue
+empty
+dequeue
+empty
+dequeue
+empty
+dequeue
+empty
+dequeue
+enqueue 688893194
+dequeue
+empty
+dequeue
+enqueue 643120664
+dequeue
+full
+enqueue -2001883353
+dequeue
+enqueue -520681345
+enqueue 2089384143
+dequeue
+full
+enqueue 1297250082
+empty
+empty
+enqueue -1082129068
+enqueue -1773656808
+full
+dequeue
+enqueue 2084652533
+dequeue
+enqueue 177220331
+enqueue 747779698
+enqueue 698239151
+empty
+empty
+full
+dequeue
+enqueue 352335649
+full
+dequeue
+empty
+enqueue -1616554631
+dequeue
+dequeue
+full
+dequeue
+dequeue
+full
+dequeue
+full
+empty
+empty
+dequeue
+enqueue -631335494
+enqueue 28015062
+empty
+dequeue
+full
+full
+full
+empty
+dequeue
+full
+empty
+dequeue
+enqueue -1265821417
+empty
+full
+full
+enqueue -1851190929
+full
+dequeue
+enqueue 1365907594
+enqueue -215813928
+enqueue -376760881
+enqueue 1989670985
+dequeue
+dequeue
+dequeue
+enqueue -974476301
+enqueue 996950732
+full
+empty
+empty
+enqueue 1994078049
+empty
+dequeue
+empty
+full
+empty
+enqueue -1907369270
+full
+full
+empty
+enqueue 1097794615
+enqueue -291749656
+full
+empty
+full
+dequeue
+enqueue -903850279
+dequeue
+full
+enqueue -1553425349
+dequeue
+dequeue
+empty
+full
+enqueue -1337366459
+enqueue -1347239049
+empty
+enqueue 2097445853
+empty
+enqueue -1979079235
+empty
+empty
+empty
+empty
+enqueue 1876582206
+empty
+empty
+full
+empty
+full
+dequeue
+full
+enqueue -2023857513
+dequeue
+empty
+dequeue
+dequeue
+full
+full
+empty
+enqueue 1579820793
+dequeue
+full
+enqueue -1244625196
+full
+dequeue
+empty
+empty
+empty
+enqueue -428626559
+dequeue
+full
+full
+empty
+enqueue -1845108837
+full
+enqueue 149209822
+enqueue -1733502950
+enqueue -306166605
+enqueue 88129718
+full
+dequeue
+dequeue
+enqueue -344865413
+dequeue
+empty
+enqueue -956790843
+enqueue -315613711
+dequeue
+dequeue
+enqueue 209522436
+dequeue
+empty
+empty
+enqueue 1605884403
+enqueue 344944724
+dequeue
+full
+dequeue
+full
+enqueue 1465853063
+empty
+empty
+dequeue
+empty
+full
+enqueue 1662696497
+enqueue -22045703
+dequeue
+dequeue
+empty
+enqueue 529423383
+dequeue
+dequeue
+empty
+enqueue -1869438419
+enqueue 1172709655
+dequeue
+dequeue
+full
+dequeue
+dequeue
+full
+dequeue
+enqueue -1456348653
+dequeue
+enqueue -1913184788
+empty
+dequeue
+dequeue
+enqueue 528978760
+dequeue
+dequeue
+full
+enqueue -163893878
+full
+enqueue 553221560
+enqueue 86688719
+full
+dequeue
+enqueue 1267224239
+enqueue 1248416468
+enqueue -1654975146
+enqueue -2013537390
+dequeue
+empty
+full
+full
+dequeue
+empty
+empty
+empty
+full
+full
+enqueue -758678529
+empty
+empty
+enqueue -261753189
+full
+dequeue
+dequeue
+full
+enqueue -1077633846
+full
+full
+full
+enqueue -1794094535
+enqueue 2102233499
+full
+enqueue 326228969
+enqueue 219777841
+enqueue -1121006522
+dequeue
+empty
+empty
+dequeue
+full
+empty
+enqueue -271324832
+empty
+empty
+empty
+full
+dequeue
+enqueue 2017898736
+empty
+enqueue 1789586583
+empty
+full
+full
+empty
+enqueue 1102351318
+enqueue -794570719
+enqueue 579020751
+enqueue 912939931
+dequeue
+full
+full
+empty
+dequeue
+dequeue
+dequeue
+full
+full
+full
+empty
+full
+empty
+enqueue 1525446416
+empty
+enqueue -192997006
+full
+dequeue
+full
+empty
+full
+full
+dequeue
+full
+enqueue -676838228
+dequeue
+empty
+dequeue
+empty
+full
+dequeue
+full
+enqueue -712661345
+enqueue 703412186
+enqueue -1826332435
+enqueue 15325969
+full
+enqueue -490425230
+dequeue
+full
+empty
+enqueue -1539469146
+enqueue -359432406
+enqueue 161025732
+full
+enqueue 532177929
+dequeue
+dequeue
+empty
+enqueue -945818711
+empty
+dequeue
+empty
+dequeue
+empty
+enqueue -2055632109
+empty
+dequeue
+empty
+empty
+dequeue
+dequeue
+enqueue 765780331
+full
+full
+full
+full
+full
+empty
+full
+full
+full
+empty
+enqueue 217052668
+dequeue
+full
+empty
+empty
+full
+empty
+dequeue
+enqueue 1196946986
+dequeue
+empty
+empty
+empty
+full
+empty
+dequeue
+enqueue 703621862
+dequeue
+enqueue -284482400
+enqueue -1105355952
+enqueue -1056154109
+empty
+dequeue
+empty
+empty
+enqueue -545466339
+dequeue
+dequeue
+empty
+full
+enqueue 34645688
+empty
+empty
+full
+full
+empty
+enqueue 641926077
+enqueue -1088911322
+enqueue 1009469743
+full
+full
+enqueue -65574370
+empty
+full
+full
+enqueue -1355865862
+full
+dequeue
+dequeue
+dequeue
+full
+empty
+full
+dequeue
+enqueue 377907873
+enqueue -1426562893
+enqueue -1091615838
+full
+full
+full
+dequeue
+full
+full
+empty
+enqueue 1235886323
+enqueue 1059756607
+enqueue -1567348217
+dequeue
+empty
+full
+empty
+enqueue -1919049622
+enqueue 902489528
+enqueue -287155208
+enqueue 369866073
+dequeue
+enqueue -2125461295
+enqueue -1763759733
+full
+dequeue
+full
+full
+enqueue 1621645434
+enqueue 280619785
+dequeue
+enqueue -1008834988
+dequeue
+full
+enqueue 1271637654
+dequeue
+full
+full
+full
+full
+enqueue -1818842525
+dequeue
+empty
+dequeue
+enqueue -587020753
+full
+dequeue
+dequeue
+enqueue -1321168139
+empty
+dequeue
+full
+empty
+full
+empty
+empty
+enqueue 1359248534
+dequeue
+dequeue
+enqueue 1621351207
+full
+full
+full
+empty
+full
+empty
+empty
+empty
+enqueue -1596055728
+full
+empty
+empty
+empty
+empty
+enqueue 1305701805
+dequeue
+empty
+enqueue -1018229708
+empty
+full
+enqueue -1163801998
+full
+empty
+dequeue
+dequeue
+empty
+enqueue 2080467824
+empty
+full
+empty
+full
+empty
+dequeue
+enqueue -825164810
+full
+enqueue 159631525
+full
+full
+enqueue 1635403164
+enqueue 1822885149
+full
+dequeue
+enqueue -1262293847
+dequeue
+dequeue
+dequeue
+enqueue -691039010
+empty
+full
+dequeue
+enqueue 1695324323
+empty
+dequeue
+dequeue
+enqueue -1842182479
+full
+enqueue -1521295167
+empty
+empty
+full
+empty
+full
+empty
+empty
+empty
+full
+full
+empty
+empty
+enqueue 1696706263
+empty
+dequeue
+dequeue
+full
+enqueue 430495107
+dequeue
+empty
+empty
+empty
+enqueue 905627518
+full
+dequeue
+empty
+empty
+empty
+dequeue
+full
+dequeue
+empty
+full
+full
+empty
+dequeue
+enqueue -1070547733
+dequeue
+enqueue 775507731
+dequeue
+enqueue 1433235497
+full
+enqueue -1310791076
+empty
+empty
+enqueue -948704095
+dequeue
+enqueue 431220344
+dequeue
+full
+full
+enqueue 1817334849
+enqueue -843422369
+full
+empty
+full
+dequeue
+empty
+empty
+full
+empty
+empty
+enqueue -808390979
+empty
+dequeue
+enqueue 1152685095
+empty
+full
+empty
+dequeue
+enqueue -1210664829
+full
+enqueue 606754078
+empty
+dequeue
+enqueue 1568972945
+enqueue -653436791
+full
+enqueue -1486553575
+enqueue -1215293902
+empty
+dequeue
+enqueue 441012362
+enqueue 1091651474
+full
+dequeue
+enqueue 1481123928
+full
+full
+dequeue
+dequeue
+enqueue 1920231829
+enqueue 1639593148
+dequeue
+dequeue
+enqueue -1936093463
+enqueue -1065276010
+full
+full
+dequeue
+full
+full
+dequeue
+full
+full
+dequeue
+empty
+enqueue -148059148
+empty
+full
+empty
+dequeue
+enqueue -1085281125
+dequeue
+enqueue -977366552
+dequeue
+full
+full
+enqueue -719338771
+enqueue -451468349
+enqueue -745311609
+empty
+dequeue
+full
+full
+dequeue
+full
+empty
+enqueue 1185258806
+full
+dequeue
+enqueue -691761968
+enqueue 1078114011
+empty
+dequeue
+empty
+full
+empty
+full
+dequeue
+full
+empty
+dequeue
+enqueue 2043361937
+empty
+empty
+full
+full
+full
+empty
+empty
+empty
+empty
+dequeue
+enqueue -1201400203
+dequeue
+empty
+dequeue
+empty
+enqueue 475549116
+dequeue
+enqueue -305034298
+dequeue
+full
+dequeue
+empty
+enqueue -439012907
+full
+enqueue 468553989
+empty
+empty
+full
+empty
+enqueue 2049716714
+full
+empty
+full
+enqueue 2028585541
+empty
+enqueue 1953206978
+enqueue -550223293
+full
+dequeue
+enqueue -1814491971
+dequeue
+enqueue -1293169494
+empty
+dequeue
+enqueue -1598938526
+enqueue 1643241608
+dequeue
+empty
+empty
+dequeue
+empty
+empty
+dequeue
+enqueue -951200288
+empty
+enqueue -2083734396
+empty
+dequeue
+full
+full
+dequeue
+dequeue
+dequeue
+empty
+dequeue
+full
+enqueue 638341608
+enqueue -715439185
+dequeue
+empty
+dequeue
+full
+empty
+enqueue 334190243
+full
+dequeue
+dequeue
+empty
+full
+full
+full
+dequeue
+empty
+dequeue
+empty
+dequeue
+full
+empty
+empty
+empty
+enqueue 1008651350
+full
+empty
+enqueue -1743202913
+empty
+empty
+empty
+dequeue
+enqueue 267745982
+enqueue 1319426257
+dequeue
+full
+full
+enqueue 630618929
+dequeue
+full
+empty
+full
+full
+dequeue
+dequeue
+empty
+enqueue 849565532
+enqueue 116758668
+full
+full
+dequeue
+enqueue -1969776744
+enqueue -1547651043
+dequeue
+empty
+enqueue 2072792762
+full
+dequeue
+enqueue -302362810
+empty
+full
+enqueue 204088097
+dequeue
+full
+enqueue -136918994
+empty
+full
+empty
+full
+enqueue -9560338
+empty
+empty
+full
+dequeue
+dequeue
+empty
+full
+empty
+empty
+dequeue
+full
+full
+dequeue
+dequeue
+dequeue
+empty
+dequeue
+enqueue 842207453
+enqueue 1641194998
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -1698892538
+enqueue 2108343258
+full
+dequeue
+enqueue 154460805
+empty
+dequeue
+enqueue -1168570580
+empty
+full
+full
+empty
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -853613313
+empty
+dequeue
+enqueue 2054967473
+full
+enqueue -1858629559
+dequeue
+full
+full
+dequeue
+full
+full
+enqueue 1352917423
+dequeue
+full
+enqueue -914384165
+dequeue
+full
+dequeue
+empty
+enqueue -60631655
+enqueue -1844075361
+enqueue 1426642220
+enqueue 124884683
+dequeue
+empty
+enqueue -1330805450
+full
+full
+dequeue
+dequeue
+empty
+dequeue
+dequeue
+empty
+dequeue
+empty
+enqueue -308105352
+full
+enqueue 275391866
+enqueue -1137153993
+enqueue -693461579
+empty
+empty
+full
+empty
+enqueue -1560514365
+dequeue
+full
+empty
+empty
+dequeue
+enqueue 1621358266
+dequeue
+enqueue 1948743657
+full
+full
+full
+dequeue
+empty
+enqueue -956090428
+empty
+empty
+dequeue
+full
+full
+full
+full
+empty
+empty
+enqueue 1527644187
+empty
+dequeue
+full
+empty
+enqueue 1721099825
+dequeue
+enqueue 429511209
+full
+dequeue
+enqueue -1529673838
+empty
+empty
+dequeue
+enqueue 532073301
+full
+empty
+dequeue
+dequeue
+empty
+dequeue
+enqueue -130178642
+full
+enqueue -2078036618
+enqueue 329096196
+enqueue 228854789
+empty
+full
+empty
+enqueue -308680659
+full
+enqueue 922653927
+dequeue
+enqueue 541591449
+empty
+empty
+empty
+empty
+enqueue 454689572
+enqueue -1044172503
+empty
+enqueue 1660623407
+enqueue 437496456
+dequeue
+dequeue
+empty
+full
+full
+enqueue -2050419854
+empty
+enqueue 2135941459
+dequeue
+dequeue
+empty
+dequeue
+empty
+dequeue
+empty
+enqueue -778556716
+enqueue -1192750162
+enqueue 558478009
+enqueue -1591317770
+enqueue 805745193
+full
+dequeue
+enqueue -1932631982
+dequeue
+full
+dequeue
+dequeue
+enqueue -1356947951
+full
+dequeue
+dequeue
+enqueue -974146920
+empty
+empty
+dequeue
+dequeue
+enqueue -675982126
+full
+dequeue
+enqueue -294725229
+empty
+empty
+dequeue
+full
+dequeue
+dequeue
+dequeue
+full
+empty
+dequeue
+dequeue
+empty
+empty
+dequeue
+full
+dequeue
+full
+dequeue
+enqueue 1283712603
+full
+enqueue 740710558
+enqueue 1577355935
+enqueue 309131474
+dequeue
+empty
+full
+full
+full
+empty
+enqueue -1232136127
+dequeue
+full
+enqueue -68892922
+enqueue 2117294043
+empty
+enqueue 1331918524
+full
+full
+enqueue -1144575037
+empty
+empty
+full
+dequeue
+full
+dequeue
+empty
+dequeue
+full
+enqueue 271587899
+full
+dequeue
+dequeue
+full
+full
+enqueue -1221865574
+dequeue
+enqueue -1393675394
+empty
+empty
+enqueue -2105999432
+full
+empty
+full
+enqueue -1368476400
+dequeue
+dequeue
+empty
+dequeue
+dequeue
+dequeue
+empty
+enqueue -274370016
+full
+empty
+full
+enqueue 1358976732
+empty
+empty
+dequeue
+empty
+full
+empty
+full
+empty
+full
+dequeue
+full
+empty
+enqueue 1134773520
+dequeue
+full
+empty
+empty
+full
+dequeue
+full
+enqueue -1106549944
+empty
+enqueue -1351325787
+dequeue
+empty
+full
+enqueue 2036927702
+empty
+full
+dequeue
+full
+dequeue
+full
+enqueue 1701918291
+dequeue
+full
+full
+dequeue
+full
+enqueue 892996945
+dequeue
+empty
+empty
+full
+empty
+full
+empty
+enqueue -1126922595
+empty
+dequeue
+empty
+full
+full
+full
+enqueue 525337577
+empty
+full
+empty
+full
+enqueue -1692321797
+dequeue
+empty
+full
+dequeue
+enqueue 475265628
+empty
+enqueue 9331173
+full
+full
+enqueue -451425140
+empty
+enqueue -204763104
+enqueue -1171515164
+full
+full
+full
+enqueue 1385783129
+dequeue
+full
+empty
+full
+enqueue -918350807
+enqueue 943427602
+full
+enqueue -280037581
+dequeue
+empty
+enqueue 466531753
+full
+empty
+dequeue
+full
+dequeue
+full
+dequeue
+enqueue -1598123583
+dequeue
+full
+enqueue -395553388
+full
+full
+empty
+empty
+dequeue
+enqueue 1975588052
+dequeue
+empty
+dequeue
+empty
+dequeue
+enqueue -384912802
+empty
+full
+dequeue
+enqueue -263301393
+dequeue
+empty
+full
+empty
+enqueue 1974722472
+empty
+dequeue
+empty
+enqueue -1495778540
+dequeue
+dequeue
+full
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+empty
+dequeue
+full
+enqueue 773096774
+dequeue
+full
+empty
+enqueue 845318654
+dequeue
+enqueue 154179689
+full
+dequeue
+empty
+empty
+dequeue
+full
+full
+empty
+dequeue
+full
+dequeue
+empty
+full
+full
+empty
+empty
+empty
+dequeue
+enqueue -1854118409
+enqueue -735580566
+dequeue
+empty
+full
+full
+enqueue 510981282
+empty
+empty
+dequeue
+enqueue -1679668829
+enqueue -1407568141
+full
+full
+enqueue 946003530
+full
+dequeue
+enqueue -2004334303
+full
+empty
+full
+full
+empty
+full
+full
+full
+empty
+enqueue -879635267
+dequeue
+enqueue 2129962327
+enqueue 1010111411
+full
+dequeue
+dequeue
+empty
+full
+full
+dequeue
+dequeue
+enqueue -1438713088
+empty
+full
+empty
+full
+dequeue
+full
+full
+dequeue
+enqueue 1929309290
+empty
+empty
+enqueue 353749710
+empty
+empty
+empty
+enqueue -565049103
+dequeue
+full
+enqueue 1322213263
+empty
+dequeue
+full
+enqueue -29437867
+full
+empty
+enqueue -461511567
+full
+enqueue -286210945
+dequeue
+full
+empty
+empty
+full
+enqueue -952379194
+enqueue -1536986099
+enqueue -1400798614
+enqueue -1612426974
+full
+enqueue 2043007590
+empty
+enqueue -1307155393
+empty
+enqueue 1235754210
+enqueue -23724001
+enqueue -394333257
+empty
+dequeue
+empty
+dequeue
+enqueue -1388763898
+enqueue -490724195
+dequeue
+full
+dequeue
+dequeue
+enqueue -1085385707
+full
+enqueue -603520533
+dequeue
+dequeue
+full
+enqueue -463979472
+enqueue -1753519968
+empty
+dequeue
+enqueue -341560969
+full
+enqueue -1042252859
+full
+empty
+enqueue -1182326972
+empty
+empty
+enqueue 1722488528
+full
+empty
+dequeue
+empty
+empty
+full
+empty
+full
+full
+empty
+empty
+full
+empty
+full
+empty
+full
+dequeue
+empty
+enqueue 1278052045
+enqueue 239890901
+full
+empty
+enqueue -71551279
+dequeue
+empty
+empty
+enqueue -322108911
+empty
+dequeue
+enqueue 1036482515
+dequeue
+full
+enqueue 221248471
+empty
+full
+dequeue
+enqueue 1492678898
+enqueue 170241187
+full
+dequeue
+full
+full
+full
+empty
+dequeue
+empty
+dequeue
+full
+dequeue
+enqueue -865985579
+enqueue -1400733229
+full
+empty
+dequeue
+enqueue 1470966102
+empty
+empty
+dequeue
+dequeue
+empty
+empty
+empty
+full
+enqueue 676310328
+empty
+enqueue -1737128223
+empty
+empty
+full
+enqueue 1915215370
+empty
+dequeue
+dequeue
+dequeue
+enqueue -431510200
+full
+full
+full
+enqueue 204620047
+full
+dequeue
+full
+dequeue
+full
+enqueue 228403293
+full
+full
+dequeue
+dequeue
+full
+full
+empty
+dequeue
+dequeue
+dequeue
+empty
+enqueue 1687969221
+enqueue 157703506
+enqueue -109169330
+full
+full
+dequeue
+full
+dequeue
+empty
+empty
+dequeue
+full
+full
+dequeue
+empty
+empty
+full
+enqueue 1388403413
+full
+empty
+enqueue -1477855963
+enqueue 1224245036
+dequeue
+full
+enqueue -1519279503
+full
+full
+enqueue -1925116071
+empty
+empty
+empty
+full
+enqueue 1573382884
+empty
+dequeue
+enqueue -1314619281
+dequeue
+dequeue
+empty
+full
+empty
+enqueue -2044006533
+enqueue -233318613
+dequeue
+dequeue
+dequeue
+empty
+full
+enqueue -1133916331
+empty
+enqueue 1345977421
+full
+empty
+full
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -168799811
+dequeue
+empty
+dequeue
+enqueue -567673845
+empty
+enqueue -1748880650
+enqueue 469894072
+dequeue
+full
+empty
+empty
+empty
+empty
+empty
+full
+full
+enqueue 387646027
+full
+dequeue
+dequeue
+full
+full
+empty
+dequeue
+enqueue -940782097
+empty
+dequeue
+empty
+full
+enqueue 20159499
+enqueue -1860626436
+dequeue
+dequeue
+full
+full
+enqueue -1957996796
+full
+dequeue
+empty
+enqueue -456585769
+full
+full
+full
+dequeue
+dequeue
+dequeue
+empty
+full
+full
+enqueue -1244430003
+full
+full
+enqueue -1789607930
+full
+dequeue
+full
+enqueue -40627634
+enqueue -143458219
+empty
+dequeue
+dequeue
+dequeue
+dequeue
+full
+dequeue
+full
+enqueue 2146228478
+full
+full
+full
+enqueue 930298600
+full
+enqueue 923783432
+dequeue
+full
+dequeue
+enqueue -398938859
+empty
+full
+enqueue 1113395999
+dequeue
+enqueue -34182140
+enqueue -673238060
+empty
+enqueue 568537164
+full
+dequeue
+dequeue
+full
+empty
+full
+empty
+dequeue
+empty
+enqueue 321559092
+enqueue -1272130799
+enqueue -984462701
+dequeue
+full
+empty
+enqueue 14913341
+full
+empty
+empty
+full
+full
+empty
+full
+full
+dequeue
+enqueue 1021179459
+full
+enqueue -677856513
+dequeue
+enqueue -819439841
+dequeue
+full
+empty
+dequeue
+empty
+empty
+full
+full
+dequeue
+enqueue -1566992269
+empty
+empty
+empty
+enqueue 942881403
+dequeue
+full
+enqueue 1700770519
+dequeue
+full
+dequeue
+empty
+full
+empty
+dequeue
+dequeue
+enqueue -2003291152
+enqueue -2047764981
+empty
+empty
+enqueue -2040128039
+dequeue
+dequeue
+full
+empty
+dequeue
+empty
+empty
+empty
+full
+dequeue
+enqueue -312596718
+empty
+dequeue
+full
+enqueue -110641534
+enqueue 1456074973
+empty
+empty
+dequeue
+full
+full
+enqueue -539358166
+empty
+empty
+empty
+dequeue
+dequeue
+full
+full
+full
+enqueue -427170893
+enqueue -375897939
+empty
+empty
+empty
+dequeue
+full
+dequeue
+empty
+full
+empty
+enqueue -1015989722
+dequeue
+dequeue
+dequeue
+full
+dequeue
+empty
+dequeue
+empty
+enqueue 931125231
+empty
+enqueue 1132049051
+full
+full
+dequeue
+dequeue
+full
+dequeue
+dequeue
+empty
+full
+dequeue
+dequeue
+empty
+full
+dequeue
+full
+enqueue -1050759455
+empty
+empty
+dequeue
+empty
+dequeue
+full
+enqueue 1441953358
+dequeue
+full
+dequeue
+enqueue -575001794
+dequeue
+enqueue -559933711
+full
+full
+empty
+enqueue -2047449877
+empty
+enqueue -789998022
+empty
+enqueue -145355629
+enqueue -1158317998
+dequeue
+empty
+full
+full
+full
+full
+empty
+full
+full
+dequeue
+enqueue 274885657
+enqueue 896411606
+dequeue
+empty
+full
+empty
+full
+full
+enqueue 1017811823
+dequeue
+full
+enqueue 821873431
+full
+enqueue 1926895482
+empty
+empty
+dequeue
+empty
+full
+dequeue
+full
+enqueue 5959574
+empty
+dequeue
+empty
+full
+full
+full
+dequeue
+empty
+empty
+full
+empty
+full
+dequeue
+empty
+full
+enqueue 1277479254
+empty
+dequeue
+empty
+empty
+enqueue 1970709407
+empty
+enqueue -357650379
+dequeue
+full
+empty
+empty
+empty
+full
+empty
+dequeue
+full
+empty
+empty
+enqueue -203060543
+dequeue
+full
+empty
+empty
+enqueue 1472909046
+dequeue
+dequeue
+enqueue -340105244
+full
+dequeue
+full
+dequeue
+full
+empty
+enqueue -1124410831
+empty
+dequeue
+empty
+empty
+enqueue -819654694
+dequeue
+enqueue -1938951918
+dequeue
+full
+dequeue
+dequeue
+dequeue
+enqueue 226025851
+enqueue -288425042
+dequeue
+enqueue 1433497883
+full
+full
+enqueue -1432534430
+full
+full
+dequeue
+dequeue
+enqueue -848784133
+dequeue
+full
+full
+dequeue
+dequeue
+full
+full
+empty
+full
+full
+empty
+full
+dequeue
+full
+empty
+full
+dequeue
+full
+dequeue
+enqueue 106687551
+dequeue
+dequeue
+dequeue
+full
+empty
+full
+full
+empty
+empty
+empty
+full
+dequeue
+full
+empty
+enqueue -460826447
+empty
+full
+enqueue -1591310018
+dequeue
+enqueue -484957377
+full
+full
+empty
+enqueue -1452343507
+full
+full
+dequeue
+full
+dequeue
+full
+enqueue -2014732077
+full
+dequeue
+full
+full
+dequeue
+dequeue
+full
+empty
+full
+empty
+enqueue -121193016
+dequeue
+full
+empty
+enqueue 1011604429
+enqueue 1568144713
+enqueue -1995869448
+enqueue 327553486
+full
+full
+empty
+dequeue
+empty
+enqueue 250751985
+enqueue 1371157442
+enqueue -184922386
+dequeue
+full
+empty
+dequeue
+empty
+empty
+dequeue
+empty
+dequeue
+empty
+full
+empty
+enqueue -398836213
+enqueue 608402842
+full
+dequeue
+empty
+empty
+empty
+empty
+dequeue
+empty
+empty
+enqueue 1157157026
+full
+full
+dequeue
+full
+empty
+enqueue -941682346
+enqueue -1415925537
+dequeue
+dequeue
+enqueue -1522354234
+dequeue
+dequeue
+full
+enqueue 601404513
+empty
+empty
+enqueue -113618710
+full
+enqueue 1997014379
+empty
+full
+empty
+dequeue
+full
+dequeue
+full
+dequeue
+empty
+full
+empty
+dequeue
+empty
+enqueue 1343798379
+dequeue
+full
+empty
+enqueue 1522472172
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 1037378149
+enqueue -182837953
+enqueue 171695203
+dequeue
+dequeue
+full
+empty
+dequeue
+dequeue
+dequeue
+full
+full
+enqueue -1114914270
+empty
+empty
+enqueue -1433852744
+enqueue -1649410994
+full
+empty
+empty
+full
+empty
+full
+dequeue
+enqueue 417249740
+empty
+dequeue
+full
+full
+enqueue 1837116785
+enqueue 994749819
+empty
+full
+full
+full
+empty
+empty
+dequeue
+enqueue -312316488
+dequeue
+dequeue
+full
+enqueue -1420182855
+dequeue
+dequeue
+enqueue -1119613050
+full
+dequeue
+enqueue 2130374726
+enqueue -1501010184
+full
+enqueue -161575282
+dequeue
+full
+full
+enqueue 501304378
+dequeue
+dequeue
+empty
+full
+empty
+dequeue
+dequeue
+empty
+dequeue
+enqueue -1446427503
+enqueue 182612619
+dequeue
+dequeue
+full
+enqueue -1772520490
+enqueue -1175250893
+full
+dequeue
+full
+dequeue
+dequeue
+enqueue 1495517965
+empty
+empty
+enqueue 148390669
+dequeue
+dequeue
+dequeue
+dequeue
+full
+dequeue
+empty
+full
+full
+empty
+dequeue
+full
+empty
+enqueue -1681412158
+empty
+full
+full
+full
+dequeue
+enqueue 1953162818
+enqueue -1702110204
+dequeue
+full
+enqueue 1546263320
+full
+dequeue
+enqueue -679389614
+dequeue
+empty
+dequeue
+enqueue -336919237
+empty
+enqueue -1281781040
+enqueue -1777276165
+full
+enqueue -419656511
+full
+full
+dequeue
+empty
+empty
+dequeue
+empty
+full
+enqueue 1862579398
+dequeue
+empty
+full
+enqueue 410850544
+dequeue
+full
+enqueue 1342423440
+dequeue
+empty
+dequeue
+enqueue 1202909404
+dequeue
+dequeue
+dequeue
+full
+empty
+full
+empty
+full
+enqueue 378153696
+empty
+enqueue -336076354
+enqueue -526490123
+empty
+empty
+full
+full
+empty
+enqueue 471474393
+enqueue 1346969344
+empty
+dequeue
+full
+enqueue -1024801256
+empty
+full
+dequeue
+empty
+full
+full
+enqueue -233085843
+enqueue 1996687051
+enqueue -1265251029
+empty
+full
+dequeue
+empty
+empty
+dequeue
+empty
+empty
+dequeue
+dequeue
+dequeue
+enqueue 1913511132
+empty
+empty
+dequeue
+empty
+empty
+empty
+full
+dequeue
+full
+empty
+empty
+full
+dequeue
+dequeue
+full
+dequeue
+full
+empty
+empty
+dequeue
+empty
+full
+enqueue 1252327861
+full
+full
+empty
+enqueue 883709836
+dequeue
+empty
+full
+empty
+full
+full
+empty
+enqueue -835173511
+full
+full
+empty
+full
+dequeue
+enqueue -2011508516
+full
+full
+full
+dequeue
+empty
+dequeue
+empty
+dequeue
+dequeue
+dequeue
+enqueue 1502872866
+enqueue 1132892279
+full
+empty
+dequeue
+dequeue
+dequeue
+full
+empty
+full
+enqueue 2056623983
+full
+enqueue 50102918
+enqueue -1837761990
+empty
+empty
+enqueue 1722399991
+enqueue 502452686
+empty
+empty
+enqueue 246289410
+enqueue -676183386
+enqueue -1350288427
+full
+enqueue 740444867
+full
+enqueue -1394354964
+full
+dequeue
+empty
+enqueue -1455754601
+dequeue
+empty
+enqueue -1418287239
+dequeue
+full
+enqueue 1874907773
+full
+dequeue
+enqueue -36994932
+dequeue
+dequeue
+empty
+full
+dequeue
+full
+enqueue -716704810
+full
+dequeue
+enqueue -1821145763
+enqueue -282580963
+empty
+enqueue 392197315
+dequeue
+full
+full
+empty
+dequeue
+empty
+dequeue
+empty
+dequeue
+empty
+enqueue 1066819895
+empty
+enqueue 2025750019
+enqueue -50121552
+dequeue
+full
+full
+# Test aborted in line: 12

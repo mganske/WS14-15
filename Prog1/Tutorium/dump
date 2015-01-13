@@ -1,0 +1,11 @@
+strcpy(semester1[0].nachname, "Wurst");
+    strcpy(semester1[0].vorname, "Hans");
+    semester1[0].matrikelnummer = 23456;
+    semester1[1] = semester1[0];
+    printf("%s, %s, %d\n", semester1[1].nachname, semester1[1].vorname, semester1[1].matrikelnummer);
+
+    int i = 0;
+
+    while (semester1[0].nachname[i] != '\0'){
+        printf("%c", semester1[0].nachname[i]);
+        i++;

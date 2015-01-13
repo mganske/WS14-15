@@ -1,0 +1,76 @@
+
+#include <stdio.h>
+
+
+struct fahrzeug {
+    void * move = bewegung();
+
+    char* motor = "";
+    float price = 0;
+    float velocity = 0;
+};
+
+struct car {
+    void * doit = fahren();
+    unsigned short anzahlRaeder = 0;
+    unsigned short anzahlChairs = 0;
+    unsigned short anzahlDoors = 0;
+    char* marke = "";
+    int power = 0;
+    struct fahrzeug fahrzeugEigenschaften;
+};
+
+struct transporter {
+    struct car carProperties;
+    float volumen = 0;
+}
+
+struct trike {
+    struct car carProperties;
+    float steuern = 0;
+}
+
+struct schiff {
+    struct fahrzeug props;
+    void * doit = schwimmen();
+    float bruttoReg = 0;
+}
+
+void main () {
+
+
+
+    struct car bmw;
+    bmw.marke = "BMW"
+    bmw.anzahlRaeder = 4;
+    bmw.anzahlDoors = 2;
+    bmw.anzahlChairs = 2;
+
+    bmw.fahrzeugEigenschaften.price = 50000;
+
+    struct transporter vw;
+
+    vw.carProperties.fahrzeugEigenschaften.price = 10000;
+
+    struct schiff ship1;
+
+    ship1.doit();
+    bmw.doit();
+    vw.carProperties.doit();
+    //vw.carProperties.fahrzeugEigenschaften.move();
+
+}
+
+
+void fahren () {
+    bewegung();
+    printf("Ich fahre");
+}
+
+void schwimmen () {
+    printf("Ich schwimme");
+}
+
+void bewegung() {
+    printf("Ich bewege mich");
+}

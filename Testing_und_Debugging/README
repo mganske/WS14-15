@@ -1,0 +1,31 @@
+Patch für die virtuelle Maschine von Testing und Debugging WS2014
+=================================================================
+
+Aufgrund der POODLE Attacke auf SSL hat Github gestern seine
+Netzwerkeinstellungen angepasst. Leider arbeitete das Abgabeskript 'submit'
+noch mit dieser, jetzt deaktivierten, Einstellung.
+
+Bitte kopieren Sie die Datei vmpatch01.sh in die virtuelle Maschine (z.B. mit
+WinSCP) und führen Sie diese dort mit dem nachstehenden Kommando aus:
+
+    sudo bash vmpatch01.sh
+
+Sie werden aufgefordert das Passwort des Benutzers student einzugeben (abc123).
+
+Bei erfolgreicher Ausführung sollten Sie nach Abschluss des Kommandos die
+folgenden Zeilen sehen (siehe auch VMPATCH01.PNG):
+
+  Patch was successfully applied!
+  The submit command should work now
+
+Sollte die Ausführung an beim Punkt `check_internet` abbrechen, so sollten Sie
+prüfen ob Sie, von den virtuellen Maschine aus, eine Verbindung zum Internet
+aufbauen können:
+
+    ping -c1 www.github.com
+
+Sollte der Pingbefehle erfolgreich sein, so starten Sie das obige Kommando für
+den vmpathch01.sh erneut (kann im Hochschulnetzwerk passieren). Erst wenn es
+nach den 3. Neustart des Kommandos immer noch nicht klappt setzen Sie sich mit
+Sebastian Stigler (sebastian.stigler@htw-aalen.de) in Verbindung.
+

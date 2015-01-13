@@ -1,0 +1,9 @@
+public class test{
+	public void main(String [] args){
+	int [] a = {1, 2};
+	b = new int [] {1, 2};
+	System.out.println((a + "").equals((b + ""));	
+
+	}
+
+}

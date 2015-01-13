@@ -1,0 +1,10 @@
+Dauer: 75 Min
+
+Vorlesungsstoff: -incl. ÜB6
+                 -excl. Wurzelklasse Object
+                 -evtl Aufrufbäume
+
+Hilfsmittel: keine
+
+
+kleinere Fehler (geschweifte Klammer schließen vergessen) werden ignoriert
